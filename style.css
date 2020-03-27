@@ -1,0 +1,32 @@
+body{
+  background: rgb(175, 199, 179);
+  margin: 30px;
+}
+
+p:hover{
+  color: rgb(0,0,0);
+  font-size: 17px;
+  font-family: 'Amaranth', sans-serif;
+}
+
+ .a{
+   font-family: 'Amaranth', sans-serif;
+   color: rgb(133, 23, 48);
+   text-align: center;
+ }
+
+h1:hover{
+  font-family: 'Carter One';
+  color: rgb(0, 0, 0);
+}
+
+.paragraph{
+  font-family: 'Amaranth', sans-serif;
+  margin: 50px;
+  color: rgb(10, 8, 77);
+}
+
+.h1{
+  font-family: 'Carter One';
+  color: rgb(6, 5, 46)
+}
