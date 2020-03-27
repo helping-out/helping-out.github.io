@@ -1,0 +1,56 @@
+body{
+  background: rgb(175, 199, 179);
+  margin: 80px;
+}
+
+p:hover{
+  color: rgb(0,0,0);
+  font-family: 'Amaranth', sans-serif;
+}
+
+h1:hover{
+  font-family: 'Carter One';
+  color: rgb(0, 0, 0);
+}
+
+.a{
+  font-family: 'Amaranth', sans-serif;
+  color: rgb(133, 23, 48);
+  text-align: center;
+}
+
+.paragraph{
+  font-family: 'Amaranth', sans-serif;
+  margin: 50px;
+  color: rgb(10, 8, 77);
+}
+
+.h1{
+  font-family: 'Carter One';
+  color: rgb(6, 5, 46)
+}
+
+
+.container{
+  background: white;
+  height: 5000px;
+  width: 90%
+  align: center;
+
+  justify-content: space-around;
+  display: flex;
+
+}
+
+.container{
+   flex-direction: row;
+}
+
+
+ .image{
+   width: 70%;
+   margin: 10px;
+   padding: 10px;
+   flex-direction: row;
+
+ }
